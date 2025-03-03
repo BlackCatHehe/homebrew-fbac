@@ -5,7 +5,7 @@ class Fbac < Formula
   desc "A flutter bloc clean architecture creator"
   homepage "https://github.com/BlackCatHehe/flutter_bloc_clean_architecture_creator"
   url "https://github.com/BlackCatHehe/flutter_bloc_clean_architecture_creator/releases/download/0.0.3/fbac"
-  sha256 "062ec324741f948e1e53429f3f044195e6b7d294d70e138050153cf1c2de3b91"
+  sha256 "2e9a58e817d19d33196c5a280db587577d896f16b0a1830babfe7b0a1613f5b7"
   license "MIT"
   version "0.0.3"
 
